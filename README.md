@@ -1,0 +1,1 @@
+This is Caroline's first git project!
